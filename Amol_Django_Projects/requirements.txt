@@ -199,7 +199,6 @@ pytz==2020.1
 pytz-deprecation-shim==0.1.0.post0
 pywhatkit==5.3
 pywikihow==0.5.7
-pywin32==303
 pywin32-ctypes==0.2.0
 pywinauto==0.6.8
 PyYAML==6.0
