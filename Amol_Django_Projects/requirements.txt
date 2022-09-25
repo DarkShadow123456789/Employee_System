@@ -112,7 +112,6 @@ jupyterlab-pygments==0.2.2
 keras==2.9.0
 Keras-Preprocessing==1.1.2
 keyring==23.5.1
-Kivi==0.0.5
 Kivy==2.1.0
 kivy-deps.angle==0.3.2
 kivy-deps.glew==0.3.1
